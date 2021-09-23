@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! Chibueze Meremikwu "
 date:   2021-09-22 16:10:31 -0700
 categories: jekyll update
 ---
