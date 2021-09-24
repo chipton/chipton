@@ -8,5 +8,7 @@ I learned about Git version control system and how its used to maintain vast maj
 
 I know the commands like "Git add .", "Git push origin", "Git Commit -m", "Git checkout branch" etc
 
- Before this class I was well aware of git. I learned how it can be integrated with other softare. Quick story, before git was created programmers would email the code to each other before deploying. This created alot of confusion and frustration amongst them. Git being created took technology level.
+I wrote my blog on a editor called visual code integrated with Git, After writing it on my terminal I inputted "git status" to see what was on my plate then "git add ." then "git commit -m" then finally "git push origin" to send my code to my github repository.
+
+ Quick story, before git was created programmers would email the code to each other before deploying. This created alot of confusion and frustration amongst them. Git being created took technology level.
 
