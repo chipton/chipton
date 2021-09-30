@@ -11,4 +11,4 @@ The top 3 ERP softwares are listed below:
 
 One: Business central
 Two: SAP
-Three: Syspro
+Three: Syspro.
